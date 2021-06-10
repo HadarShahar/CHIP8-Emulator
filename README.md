@@ -1,4 +1,4 @@
-# CHIP-8-Emulator
+# CHIP-8 Emulator
 
 CHIP-8 emulator with graphics and sound, written in c++.  
 ## Special keys
